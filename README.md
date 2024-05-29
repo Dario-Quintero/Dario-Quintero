@@ -21,11 +21,10 @@
 <p>🐢 Soy un Desarrollador Full Stack con una actitud proactiva. Mi formación en Henry me ha proporcionado habilidades técnicas sólidas y una mentalidad de crecimiento constante. Durante mi capacitación, he adquirido experiencia trabajando en equipo, analizando datos y adaptándome a las rápidas transformaciones del sector tecnológico.</p>
 
 <p>Mis habilidades técnicas incluyen: </p>
-<p>🌕 Frontend: Desarrollo de interfaces de usuario dinámicas utilizando HTML, CSS, JavaScript junto con React & Redux.</p>
-<p>🌑 Backend: Construcción de servidores robustos y mantenimiento de bases de datos con Express, Node.js, PostgreSQL, y ahora también con Python y Django.</p>
+<p>🌕 Frontend: Desarrollo de interfaces de usuario dinámicas utilizando HTML, CSS, Tailwind, JavaScript, React & Redux.</p>
+<p>🌑 Backend: Construcción de servidores robustos y mantenimiento de bases de datos con Express, Node.js, Python, Django, MongoDB y PostgreSQL.</p>
 
-<p>Estoy comprometido con el aprendizaje continuo y en la búsqueda de oportunidades que me permitan aplicar y expandir mis habilidades técnicas. Mi objetivo es contribuir de manera significativa al éxito de los proyectos en los que participo, siempre buscando la excelencia y la eficiencia
-conocimientos y contribuir al éxito de proyectos innovadores.</p>
+<p>Estoy comprometido con el aprendizaje continuo y en la búsqueda de oportunidades que me permitan aplicar y expandir mis habilidades técnicas y contribuir al éxito de proyectos innovadores.</p>
 
 <hr></hr>
 
