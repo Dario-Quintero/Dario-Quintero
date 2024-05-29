@@ -24,7 +24,7 @@
 <p>🌕 Frontend: Desarrollo de interfaces de usuario dinámicas utilizando HTML, CSS, Tailwind, JavaScript, React & Redux.</p>
 <p>🌑 Backend: Construcción de servidores robustos y mantenimiento de bases de datos con Express, Node.js, Python, Django, MongoDB y PostgreSQL.</p>
 
-<p>Estoy comprometido con el aprendizaje continuo y en la búsqueda de oportunidades que me permitan aplicar mis habilidades técnicas y contribuir al éxito de proyectos innovadores.</p>
+<p>Estoy comprometido con el aprendizaje continuo y en la búsqueda de oportunidades que me permitan aplicar mis habilidades técnicas para contribuir al éxito de proyectos innovadores.</p>
 
 <hr></hr>
 
